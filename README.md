@@ -1,4 +1,4 @@
-# Ex-6: Trainable Layers in Neural Networks
+Trainable Layers in Neural Networks
 
 ## Overview
 In this exercise, you will learn to create and modify neural network layers.
